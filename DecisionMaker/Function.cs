@@ -20,6 +20,7 @@ namespace DecisionMaker
             "It is certain",
             "It is decidedly so",
             "Without a doubt",
+            "Heck yes",
             "Yes definitely",
             "You may rely on it",
             "As I see it, yes",
