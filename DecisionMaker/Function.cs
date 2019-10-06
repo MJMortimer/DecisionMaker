@@ -38,7 +38,8 @@ namespace DecisionMaker
             "My sources say no",
             "Outlook not so good",
             "Very doubtful",
-            "I don't think so, buddy"
+            "I don't think so, buddy",
+            "Aye, me hearty! "
         };
 
         
