@@ -20,6 +20,7 @@ namespace DecisionMaker
             "It is certain",
             "It is decidedly so",
             "Without a doubt",
+            "Heck yes",
             "Yes definitely",
             "You may rely on it",
             "As I see it, yes",
@@ -37,7 +38,8 @@ namespace DecisionMaker
             "My sources say no",
             "Outlook not so good",
             "Very doubtful",
-            "I don't think so, buddy"
+            "I don't think so, buddy",
+            "Aye, me hearty! "
         };
 
         
